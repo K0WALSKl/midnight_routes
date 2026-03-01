@@ -1,4 +1,4 @@
-# Comment utiliser
+# Utilisation
 
 > [!WARNING]
 > Conçu pour un client en français
