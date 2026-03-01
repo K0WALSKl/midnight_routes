@@ -1,7 +1,7 @@
 # Utilisation
 
 > [!WARNING]
-> Conçu pour un client en français
+> Conçu sur un client en français, je ne sais pas si ça marchera sur un client dans une autre langue
 
 * Installez les addons [Routes](https://www.curseforge.com/wow/addons/routes) et [Routes Import/Export](https://www.curseforge.com/wow/addons/routes-import-export)
 
