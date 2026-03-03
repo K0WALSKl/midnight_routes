@@ -1,6 +1,3 @@
-> [!WARNING]
-> Conçu sur un client en français, je ne sais pas si ça marchera sur un client dans une autre langue
-
 # Utilisation
 
 ## Importation d'une nouvelle route
