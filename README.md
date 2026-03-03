@@ -1,7 +1,9 @@
-# Utilisation
-
 > [!WARNING]
 > Conçu sur un client en français, je ne sais pas si ça marchera sur un client dans une autre langue
+
+# Utilisation
+
+## Importation d'une nouvelle route
 
 * Installez les addons [Routes](https://www.curseforge.com/wow/addons/routes) et [Routes Import/Export](https://www.curseforge.com/wow/addons/routes-import-export)
 
@@ -16,3 +18,9 @@
 * Copiez le contenu et collez-le dans la zone de texte Importer, puis cliquez sur Accepter
 
 ![Import de la route](assets/route_import.png)
+
+## Mise à jour d'une route existante
+
+Pour mettre à jour une route existante, sélectionnez la route que vous souhaitez mettre à jour dans les options de routes en faisant `/routes`, puis cliquez sur Accepter
+
+![Mise à jour d'une route existante](assets/route_update.png)
