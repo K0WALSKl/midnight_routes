@@ -1,6 +1,6 @@
 # Midnight Routes
 
-Regroupement de routes optimisée de récoltes à partir des coordonnées fournies par Wowhead. Pour chaque zone, vous trouverez les routes de chaque plantes / gisements, ainsi que des routes aggrégeant chaque plante, chaque gisements, ou les deux en même temps.
+Regroupement de routes optimisée de récoltes à partir des coordonnées fournies par Wowhead. Pour chaque zone, vous trouverez les routes de chaque plantes / gisements, ainsi que des routes aggrégeant chaque plantes, gisements, ou les deux en même temps.
 
 
 ## Utilisation
